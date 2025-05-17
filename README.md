@@ -1,8 +1,6 @@
 ---
 
-##  Employee Management with DB - README.md*
 
-markdown
 # Employee Management System (With Database)
 
 This is a full-fledged **Spring Boot** application that manages employees using **MySQL Database** and **Spring Data JPA**. It performs all **CRUD** operations (Create, Read, Update, Delete).
